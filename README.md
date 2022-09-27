@@ -1,4 +1,4 @@
-# 4-bii BCD Counter
+# 4-bit BCD Counter
 
 implementaion of 4-bit BCD up/down Counter.<br />
 The counter works as follw:<br />
